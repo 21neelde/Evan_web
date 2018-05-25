@@ -1,0 +1,8 @@
+// this is a single line comment 
+/* multi line comment */
+// we gon make background color
+
+body{
+    background-color: #FFFFFF;
+    //white, first 2 give red second 2 gvie green third 2 give blue 
+    }
